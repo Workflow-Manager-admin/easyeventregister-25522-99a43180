@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 19, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "ctags": [], "hash": null, "format-version": 4, "code-base-name": "default", "filename": "easy_event_register_backend/api/__init__.py", "knowledge_revision": 29}
